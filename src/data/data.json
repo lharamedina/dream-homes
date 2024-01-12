@@ -1,0 +1,27 @@
+{
+  "Header": {
+    "title": "Tour Your Dream Home",
+    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi maximus, leo venenatis luctus euismod."
+  },
+  "About": {
+    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi maximus, leo venenatis luctus euismod, risus tellus volutpat nisi, sed congue libero neque quis risus. Duis hendrerit, enim et blandit gravida, sapien leo viverra velit, eu aliquet quam erat ac elit. Pellentesque lacinia eros vitae eros lacinia fermen."
+  },
+
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.png",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi maximus, leo venenatis luctus euismod, risus tellus volutpat nisi, sed congue libero neque quis risus.",
+      "name": "Juan Dela Cruz"
+    },
+    {
+      "img": "img/testimonials/01.png",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi maximus, leo venenatis luctus euismod, risus tellus volutpat nisi, sed congue libero neque quis risus.",
+      "name": "Juan Dela Cruz"
+    },
+    {
+      "img": "img/testimonials/01.png",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi maximus, leo venenatis luctus euismod, risus tellus volutpat nisi, sed congue libero neque quis risus.",
+      "name": "Juan Dela Cruz"
+    }
+  ]
+}
